@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Model weights (auto-downloaded, not committed)
+assets/models/*.pt
+assets/models/*.onnx
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs / temp
+*.log
+.tmp/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/

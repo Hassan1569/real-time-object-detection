@@ -26,5 +26,7 @@ A professional, local, browser-based application that performs real-time object 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/real-time-object-detection.git
+   git clone https://github.com/Hassan1569/real-time-object-detection.git
    cd real-time-object-detection
+
+   to run write in powershell: streamlit run app.py
